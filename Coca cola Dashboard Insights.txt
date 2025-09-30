@@ -1,11 +1,13 @@
 Coca-Cola Product Sales Analysis Dashboard Insights | 2022
 Excited to share insights from the Coca-Cola Product Sales Analysis Dashboard created using Python, SQL, Power BI, and Excel to transform raw sales data into actionable business strategies.
+
 ⦁ 16.2M Total Units Sold generating $7.75M in revenue – underscoring Coca-Cola's market dominance and consumer loyalty across beverages.
 ⦁ $0.48 Average Price Per Unit across all products, with strong performance in carbonated soft drinks and bottled water, reflecting Coca-Cola's portfolio strength in everyday hydration and refreshment.
 ⦁ Units Sold MOM Growth: 10-11% across products, while Sales MOM Growth: 10-12%, indicating consistent monthly upward trends driven by seasonal demand.
 ⦁ Coca-Cola as the top-selling product with 4M units & $1.88M revenue, highlighting its flagship status.
 ⦁ Southern Regions (South + Southeast) dominate with 50% of transactions, while West leads in units sold for most products.
 ⦁ Highest Monthly Operating Profit peaks in summer months (e.g., August highs up to $92K for Coca-Cola), showing seasonal boosts from warm weather.
+
 Product Insights:
 ⦁ Coca-Cola – Flagship leader with 4M units sold at $0.47 each, $1.9M total sales, and 10% MOM unit growth. April saw 624 transactions yielding $76,755 profit.
 ⦁ Dasani Water – Hydration favorite with 2.9M units at $0.55, $1.6M sales, 10% MOM growth. April: 624 transactions, $51,868 profit – strong in health-conscious markets.
@@ -13,14 +15,17 @@ Product Insights:
 ⦁ Sprite – Refreshing citrus hit with 2.6M units at $0.42, $1.2M sales, 10% MOM growth. April: 624 transactions, $40,913 profit.
 ⦁ Powerade – Sports drink standout with 2M units at $0.54, $1.1M sales, 11% MOM growth. April: 624 transactions, $41,647 profit – appeals to active consumers.
 ⦁ Fanta – Fun flavored choice with 2.1M units at $0.43, $970K sales, 10% MOM growth. April: 624 transactions, $35,572 profit.
+
 Regional Trends:
 ⦁ Top Region by Units – West leads overall (e.g., $0.81M for Coca-Cola, $0.75M for Diet Coke), driven by population density in states like California.
 ⦁ Transaction Distribution – South & Southeast each at 25%, West 21%, Northeast 15%, Midwest 13% – emphasizing focus on southern U.S. markets for expansion.
 ⦁ Sales by State Map – Darker shades in Texas, California, Florida, and New York indicate high-revenue hotspots, ideal for targeted marketing.
+
 Time-Based Analysis:
 ⦁ Seasonal Peaks – Units and sales trend higher in summer (Jun-Aug), with dips in winter (Jan-Feb), aligning with outdoor activities and heat-driven consumption.
 ⦁ Monthly Operating Profit – Fluctuates but shows growth potential; e.g., Coca-Cola peaks at $92K in August, suggesting promo opportunities in Q3.
 ⦁ Consistent April Snapshot – Each product averaged 624 transactions, totaling ~3,744 across the portfolio, with profits ranging from $35K (Fanta) to $76K (Coca-Cola).
+
 Dashboard Features:
 ⦁ KPI Cards → Quick views of total units, sales, and MOM growth.
 ⦁ Filters for Month, Day, Retailer → Enable real-time slicing by time or channel.
@@ -28,15 +33,13 @@ Dashboard Features:
 ⦁ Regional Bar & Pie Charts → Break down units and transactions by region.
 ⦁ State Sales Heatmap → Pinpoint geographic opportunities.
 ⦁ Operating Profit Line → Track profitability month-by-month.
+
 Tools Used:
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL
-Power BI
-Excel
+Python (Pandas, NumPy, Matplotlib, Seaborn) SQL Power BI Excel
+
 Business Value to Companies:
 ✔ Optimize Inventory during peak summer months and high-demand regions like the West and South.
 ✔ Target Promotions for underperformers like Fanta in Midwest to boost units.
 ✔ Enhance Retail Partnerships using retailer filters to identify top performers.
 ✔ Drive Sustainability by promoting Dasani Water in eco-aware areas like the Northeast.
 ✔ Forecast Growth with MOM trends to plan production and marketing budgets.
-#CocaCola #DataAnalytics #PowerBI #SQL #Python #Excel #DataVisualization #DAX #PowerQuery #BusinessInsights #InteractiveDashboards #RealWorldAnalytics
